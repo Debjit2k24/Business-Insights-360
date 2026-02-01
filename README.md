@@ -75,7 +75,7 @@ The data model follows a **snowflake-style schema**, designed for scalability an
 * Normalized dimension tables (Date, Customer, Product, Market)
 * Shared dimensions enabling cross-functional analysis
 
-![Data Model](Screenshots/data_model.png)
+![Data Model](Screenshots/DATA_MODEL.png)
 
 ---
 
