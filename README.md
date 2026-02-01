@@ -108,7 +108,7 @@ The data model follows a **snowflake-style schema**, designed for scalability an
 
 ### Sales & Finance Dashboard
 
-![Sales Finance](Screenshots/sales_view.png)
+![Sales Finance](Screenshots/finance_view.png)
 
 ### Supply Chain Analysis
 
