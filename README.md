@@ -75,7 +75,7 @@ The data model follows a **snowflake-style schema**, designed for scalability an
 * Normalized dimension tables (Date, Customer, Product, Market)
 * Shared dimensions enabling cross-functional analysis
 
-![Data Model](Screenshots/DATA_MODEL.png)
+![Data Model](Screenshots/data_model.png)
 
 ---
 
@@ -104,15 +104,15 @@ The data model follows a **snowflake-style schema**, designed for scalability an
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/executive_view.png)
 
 ### Sales & Finance Dashboard
 
-![Sales Finance](screenshots/sales_finance.png)
+![Sales Finance](Screenshots/sales_view.png)
 
 ### Supply Chain Analysis
 
-![Supply Chain](screenshots/supply_chain.png)
+![Supply Chain](Screenshots/supply_chain_view.png)
 
 ---
 
